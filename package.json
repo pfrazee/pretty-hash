@@ -1,0 +1,24 @@
+{
+  "name": "pretty-hash",
+  "version": "1.0.0",
+  "description": "Output binary buffers as a nice shortened hex string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfrazee/pretty-hash.git"
+  },
+  "keywords": [
+    "buffer",
+    "hex",
+    "hash"
+  ],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfrazee/pretty-hash/issues"
+  },
+  "homepage": "https://github.com/pfrazee/pretty-hash#readme"
+}
