@@ -1,6 +1,6 @@
 {
   "name": "pretty-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Output binary buffers as a nice shortened hex string",
   "main": "index.js",
   "scripts": {
